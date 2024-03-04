@@ -45,4 +45,6 @@ Sonification mid-movement
 
 ## Future
 
+Add to strudel-oriented alpaca tutorial series
+
 Kolam with an e-textile grid - cap sense touch board with sewable LEDs to visualize points of intersection
