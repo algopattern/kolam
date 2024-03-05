@@ -1,6 +1,8 @@
 # Kolam experiments
 
-Explanation goes here
+Kolam is a South Indian heritage folk art form. It is a form of line drawing that creates winding, interwoven patterns over a two-dimensional dot-grid structure. During a 10-day research residency, we (Alex and Anu) conducted a series of Kolam experiments building on the Algorithmic Pattern theme. We approached Kolam from multiple perspectives, including material, embodied, computational, structural, and rhythmic. We outline key learnings from these experiments in the hope that they inspire folks to explore heritage patterns through unconventional modes of making.
+
+Note: We work with Kambi Kolam, a type of Kolam drawn in a single continuous line. For further background on this project, check out Reddy, Anuradha. 2023. “Kambi Kolam as Algorithmic Pattern.” In Algorithmic Pattern Salon. Then Try This. https://doi.org/10.21428/108765d1.3bcd31e8.       
 
 ## Hand embroidery
 
