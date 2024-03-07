@@ -17,9 +17,6 @@ line. For further background on this project, check out Reddy,
 Anuradha. 2023. “Kambi Kolam as Algorithmic Pattern.” In Algorithmic Pattern
 Salon. Then Try This. https://doi.org/10.21428/108765d1.3bcd31e8
 
-We share our progress by describing some of our design processes, and practical
-outcomes including textile designs and software.
-
 ## Machine embroidery for handsewn kolams
 
 Anu's main aim for the residency was to explore the possibility of handsewing
