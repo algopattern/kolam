@@ -3,12 +3,19 @@ title: Kolam Experiments
 authors: Anu Reddy; Alex McLean
 ---
 
-The following shares ongoing work initiated during a research residency at the
-Then Try This studio in Sheffield during February 2024. In particular we
-explored Kambi Kolam, based on ideas developed by Anu and shared in a
-[presentation](https://www.youtube.com/watch?v=csBPGi1AfE8&list=PLxqmZjMvoVzzhyTQab_DCEqDIthsAiDzF&index=3&t=1320s)
-and [paper](https://alpaca.pubpub.org/pub/xywz3ebv/) for the Algorithmic Pattern
-Salon that took place in November 2023.
+Kolam is a South Indian heritage folk art form. It is a form of line drawing
+that creates winding, interwoven patterns over a two-dimensional dot-grid
+structure. During a 10-day research residency, we (Alex and Anu) conducted a
+series of Kolam experiments building on the Algorithmic Pattern theme. We
+approached Kolam from multiple perspectives, including material, embodied,
+computational, structural, and rhythmic. We outline key learnings from these
+experiments in the hope that they inspire folks to explore heritage patterns
+through unconventional modes of making.
+
+Note: We work with Kambi Kolam, a type of Kolam drawn in a single continuous
+line. For further background on this project, check out Reddy,
+Anuradha. 2023. “Kambi Kolam as Algorithmic Pattern.” In Algorithmic Pattern
+Salon. Then Try This. https://doi.org/10.21428/108765d1.3bcd31e8
 
 We share our progress by describing some of our design processes, and practical
 outcomes including textile designs and software.
