@@ -18,7 +18,7 @@ the embroidery file from there.
 
 The first attempt interwove the kolam thread in the inner stitches of the embroidered Sashiko 'star'. However, as pictured, this did not hold the Kolam curves well.
 
-(image)
+![alt-text](./images/Kolam_inner_stitches.jpg)
 
 The next attempt incorporated stitches outside the Sashiko star, and the interweaving created Kolam in Lusona style (a Kolam-like artform from Angola), creating straight edges rather than curves.
 
