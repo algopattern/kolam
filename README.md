@@ -18,17 +18,20 @@ the embroidery file from there.
 
 The first attempt interwove the kolam thread in the inner stitches of the embroidered Sashiko 'star'. However, as pictured, this did not hold the Kolam curves well.
 
-![alt-text](./images/Kolam_inner_stitches.jpg)
+<img src="./images/kolam_inner_stitches.jpeg" width="800">
 
 The next attempt incorporated stitches outside the Sashiko star, and the interweaving created Kolam in Lusona style (a Kolam-like artform from Angola), creating straight edges rather than curves.
 
-(image)
+<img src="./images/kolam_outer_stitches.jpeg" width="800">
 
 Anu then returned to a hand-sewn Sashiko method as the base structure, which helped us understand which structural binding points the machine needed to reinforce to achieve a Kolam. At this stage, we also discovered that an nxn Kolam is best achievable with a double-sized embroidered structure, i.e., 2nx2n. We were then able to adjust the grid and sewing method to find a structure that worked well. 
 
-(image)
+<img src="./images/kolam_sashiko.jpeg" width="400"> <img src="./images/kolam_double_grid.jpeg" width="400"> 
+
 
 For the final iteration, we attempted to create a Kolam as large as possible within the dimensions of the machine embroidery hoop and center it on the nxn embroidery grid. So, for a 15x15 embroidered grid, we could thread a 7x7 Kolam (n/2*n/2 - 1).  
+
+<img src="./images/final_kolam.jpeg" width="800">
 
 ### Hand embroidery
 
