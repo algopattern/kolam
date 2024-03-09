@@ -10,13 +10,12 @@ Salon. Then Try This. https://doi.org/10.21428/108765d1.3bcd31e8
 
 ## Machine embroidery for handsewn Kolams
 
-Anu's main aim for the residency was to explore the possibility of handsewing kolams supported by a Sashiko-inspired embroidery structure (Sashiko is traditional Japanese embroidery or stitching). By bringing these two structures together - looping kolams structures, which are normally drawn, with textile embroidery structures, we quickly hit all the challenges involved with
-integrating two very different structures.
+Anu's main aim for the residency was to explore the possibility of handsewing kolams supported by a Sashiko-inspired embroidery structure (Sashiko is traditional Japanese embroidery or stitching). By bringing these two structures together - looping kolams structures, which are normally drawn, with textile embroidery structures, we quickly hit all the challenges of integrating two very different structures.
 
 Facing these challenges involved learning to think like our embroidery machine; using a thread to draw a single line around the fabric, with each stitch creating a structural bind point in our structure. We began by working directly in the free/open Inkscape software, specifying each stitch as drawn vectors and using the Inkstitch plugin to export the drawings into embroidery files (.pes) for sending to the embroidery machine (Brother NV2600). Inkscape includes useful facilities for duplicating drawn shapes following symmetrical patterns, but for full control of the arrangement and order of stitches, we quickly moved to automate the drawing using the free/open source p5.js software. There is a library available for p5.js for creating embroidery files directly, but we found it best to output our stitch vectors using the SVG format, then use Inkscape/Inkstitch check and make final adjustments to the stitches, and export
 the embroidery file from there.
 
-The first attempt interwove the kolam thread in the inner stitches of the embroidered Sashiko 'star'. However, as pictured, this did not hold the Kolam curves well.
+The first attempt interwove the kolam thread in the inner stitches of the embroidered Sashiko 'star' by going under-over-under the stitches. However, as pictured, this did not hold the Kolam curves well.
 
 <img src="./images/kolam_inner_stitches.jpeg" width="800">
 
@@ -29,7 +28,7 @@ Anu then returned to a hand-sewn Sashiko method as the base structure, which hel
 <img src="./images/kolam_sashiko.jpeg" width="400"> <img src="./images/kolam_double_grid.jpeg" width="400"> 
 
 
-For the final iteration, we attempted to create a Kolam as large as possible within the dimensions of the machine embroidery hoop and center it on the nxn embroidery grid. So, for a 15x15 embroidered grid, we could thread a 7x7 Kolam (n/2*n/2 - 1).  
+In the final iteration, we attempted to create a Kolam as large as possible to fit the dimensions of the machine embroidery hoop and center it on the nxn embroidery grid. For a 15x15 embroidered grid, we could thread a 7x7 Kolam (n/2*n/2 - 1), as shown below.  
 
 <img src="./images/final_kolam.jpeg" width="800">
 
